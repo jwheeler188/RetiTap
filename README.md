@@ -1,5 +1,7 @@
 # RetiTap
 
+Demo site: ecb618b568d276fabbeed7355845cb91:/page/Retipedia/zim_index.mu`zim=gutenberg_en_lcc-g_2026-03.zim
+
 On-demand EPUB downloads for [Retipedia](https://github.com/RFnexus/Retipedia) —
 a searchable Gutenberg/Wikipedia/etc. `.zim` reader for
 [NomadNet](https://github.com/markqvist/NomadNet).
